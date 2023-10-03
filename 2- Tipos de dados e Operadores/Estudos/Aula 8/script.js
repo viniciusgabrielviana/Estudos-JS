@@ -1,0 +1,6 @@
+console.log(typeof true)
+console.log(true)
+console.log(false)
+console.log(2 > 10)
+console.log(2 < 10)
+console.log("< , > , <= , >= , == , != , ===")
