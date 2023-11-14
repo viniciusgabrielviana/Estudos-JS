@@ -1,0 +1,23 @@
+
+Declaração do Problema
+Você recebe duas Strings que representam dois números inteiros não negativos. Os digitos são armazenados 
+em ordem inversa, são separados por vírgula e cada um de seus nós contêm um único dígito. Adicione os dois 
+números e retorne a soma, com os dígitos também separados por virgula
+Você pode assumir que os dois números não contêm nenhum Zero à esquerda exceto o Próprio número 0
+
+
+Exemplo 1:
+Entrada: 
+2,4,3
+5,6,4
+Saída: 
+7,0,8
+
+Explicação: 342 + 465 = 807
+
+Exemplo 2:
+Entrada: 
+0
+0
+Saída: 
+0

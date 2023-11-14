@@ -1,0 +1,33 @@
+
+Descrição do problema:
+
+Crie um programa que liste conjuntos de notas de acordo com a entrada de uma lista de números. 
+calcule a media destas notas. Exiba o conjunto das notas abaixo da média calculada. em seguida
+exiba o outro conjunto de notas maiores do que a media. se uma nota for igual a media calculada
+nao mostre-a em nenhum dos conjuntos
+
+Siga EXATAMENTE o exemplo de mensagem de saida declarado abaixo nos exemplos
+
+1. Não há espaços em branco entre os numeros E entre os conjuntos
+2, Os números dever ser separados por ","
+3. Os conjuntos devem ser separados por uma quebra de linha.
+4. A ordem de listagem dos numeros DEVERA SER MANTIDA com base na lista dada como entrada
+
+A ordem da saída é a seguinte:
+1. notas ABAIXO da média,
+2. notas ACIMA da media,
+
+Exemplos de entrada e saída:
+
+Exemplos 1:
+Entrada: 7,8,9,10,5.5,6.7
+Saida: 
+7,5.5,6.7
+8,9,10
+
+Exemplo 2:
+Entrada: 1,3,7,4,5
+Saída:
+1,3
+7,5
+

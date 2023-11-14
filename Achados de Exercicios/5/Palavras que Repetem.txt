@@ -1,0 +1,10 @@
+Descrição do problema
+Precisamos de uma função que conte quantas vezes uma determinada palavra ocorre em uma frase
+A função deve ser capáz de lidar com um numero variavel de parametros onded o primeiro parametro
+(primeira linha da entrada) é a frase e os parametros seguintes são as palavras(segunda linha de entrada)
+a serem contadas
+
+Exemplo: 
+java eh uma linguagem de programacao, java eh muito popular. java não morreu
+Saida: 
+3,2,1,0

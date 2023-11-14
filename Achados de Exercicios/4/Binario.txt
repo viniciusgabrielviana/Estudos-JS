@@ -1,0 +1,16 @@
+Descrição do Problema:
+Dado um numero decimal inteiro N(por padrão,ele esta na base 10), 
+escreva um programa que converta o numero decimal em um numero binario(base 2)
+
+Entrada:
+a entrada contem um numero decimal N
+Saida:
+Exiba o equivalente bonário do numero decimal
+
+Exemplo 1:
+Entrada: 3
+Saída: 11
+
+Exemplo 2:
+Entrada: 233
+Saída: 11101001
