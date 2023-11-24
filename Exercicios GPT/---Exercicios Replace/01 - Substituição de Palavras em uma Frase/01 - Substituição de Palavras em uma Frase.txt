@@ -1,0 +1,8 @@
+Peça ao usuário para inserir uma frase e uma palavra específica. Utilize o método replace para substituir todas as ocorrências da palavra na frase por outra palavra. Imprima a frase resultante.
+
+Entrada:
+Digite uma frase: "O JavaScript é uma linguagem poderosa. O JavaScript é versátil."
+Digite a palavra a ser substituída: "JavaScript"
+Digite a nova palavra: "Node.js"
+Saída:
+A frase modificada: "O Node.js é uma linguagem poderosa. O Node.js é versátil."

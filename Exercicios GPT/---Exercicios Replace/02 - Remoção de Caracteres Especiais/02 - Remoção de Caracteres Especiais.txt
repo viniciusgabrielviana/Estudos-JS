@@ -1,0 +1,6 @@
+Solicite ao usuário para inserir uma string que possa conter caracteres especiais. Utilize o método replace para remover todos os caracteres especiais da string. Imprima a string resultante.
+
+Entrada:
+Digite uma string com caracteres especiais: "@Olá! Como você está?"
+Saída:
+String sem caracteres especiais: "Olá Como você está"
